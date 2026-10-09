@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-09T09:25:34",
+  "description": "Robust colored emoji toolbar icons\n\n### Changes\n\n* **Gboard:** Emoji prompt tools in Gboard's toolbar are recognized in three independent ways: the bitmap itself (now kept alive), an invisible marker in the bitmap, or the key's description matching the prompt label. Any one is enough to show the emoji in its own colors.\n* **Gboard:** A guard re-applies the colored icon if Gboard swaps the key icon later, for example after a theme or state change.\n* **Gboard:** Diagnostics log how each toolbar key icon was matched.",
+  "download_url": "https://raw.githubusercontent.com/bjspi/gboard-turbotyper-patches/44188395adc98c28e176961188eefec0f554a2bd/patches-gboard.mpp",
+  "signature_download_url": "",
+  "version": "3.11.108"
+}
