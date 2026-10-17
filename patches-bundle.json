@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-17T12:58:31",
+  "description": "Nur diese first, with a \"1\" icon\n\n### Changes\n\n* **Gboard:** In the Transkribieren choice, \"Nur diese\" now comes first, before \"Mit Sammlung\", and has a simple \"1\" icon.",
+  "download_url": "https://raw.githubusercontent.com/bjspi/gboard-turbotyper-patches/9a8a295edf6ede7455cd298c3548e5d268525133/patches-gboard.mpp",
+  "signature_download_url": "",
+  "version": "3.11.120"
+}
