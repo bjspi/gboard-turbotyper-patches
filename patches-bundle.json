@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-22T15:17:41",
+  "description": "IP version setting moved to Netzwerk\n\n### Changes\n\n* **Gboard:** \"IP-Version für Verbindungen\" now sits in its own Netzwerk section on the Turbo-Type main page instead of under Transkription. It always applied to every Turbo-Type connection: transcription, rephrasing, backend, live providers and warm-up.",
+  "download_url": "https://raw.githubusercontent.com/bjspi/gboard-turbotyper-patches/4d166f13dfd353a90fac69ea20886aae935a7362/patches-gboard.mpp",
+  "signature_download_url": "",
+  "version": "3.11.125"
+}
