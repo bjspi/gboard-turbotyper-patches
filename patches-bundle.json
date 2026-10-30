@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-30T14:24:21",
+  "description": "Built-in ADB help for prompts\n\n### Changes\n\n* **Gboard:** \"adb shell content read --uri …turbotype_connections/help\" lists every command for reading and editing prompts over ADB. The address of the installation is already filled in, also for a renamed package.\n* **Gboard:** The public README now explains editing prompts over ADB and mentions custom OpenAI-compatible rewording providers.",
+  "download_url": "https://raw.githubusercontent.com/bjspi/gboard-turbotyper-patches/412172359814f56501d9ba298fdd64a52b97323a/patches-gboard.mpp",
+  "signature_download_url": "",
+  "version": "3.11.128"
+}
