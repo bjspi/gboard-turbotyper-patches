@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-11-22T16:03:40",
+  "description": "Hold the idle mic to dictate in English\n\n### Changes\n\n* **Gboard:** Long-press the Turbo-Type mic while idle to start a recording that is always transcribed in English, with the English transcription prompt.\n* **Gboard:** Switch Gboard's visible layout to an enabled English language for the recording and switch back after sending, discarding or closing the keyboard; no switch when English is already active, and a language the user picks meanwhile is kept.\n* **Gboard:** Show \"EN\" in the recording timer and an English start status.\n* **Gboard:** A hold that just discarded a recording does not start a new one.",
+  "download_url": "https://raw.githubusercontent.com/bjspi/gboard-turbotyper-patches/69fa85d3a26b3be03055ff4e7aa57b9588c9081b/patches-gboard.mpp",
+  "signature_download_url": "",
+  "version": "3.11.130"
+}
